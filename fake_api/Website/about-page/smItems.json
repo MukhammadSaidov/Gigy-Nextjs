@@ -1,0 +1,22 @@
+[
+    {
+        "img":"/Icon/website-icons/about-us/phone.svg",
+        "title":"Client-centric",
+        "text":"The growth of our business lies in the satisfaction of its customers which we do, everytime, any day."
+    },
+    {
+        "img":"/Icon/website-icons/about-us/pink.svg",
+        "title":"Effective and efficient",
+        "text":"With Gigy, you can delegate work at affordable rates and get full speed ahead."
+    },
+    {
+        "img":"/Icon/website-icons/about-us/orange.svg",
+        "title":"Performance-oriented",
+        "text":"Our workforce is skilled, knowledgeable and thorough  thereby birthing trust."
+    },
+    {
+        "img":"/Icon/website-icons/about-us/blue.svg",
+        "title":"Innovative and fun",
+        "text":"We come up with new ways to get stuff off your plate, a win-win for you and for us at Gigy."
+    }
+]

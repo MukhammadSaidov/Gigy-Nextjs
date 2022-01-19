@@ -1,0 +1,22 @@
+[
+    {
+        "job":"Newsletter",
+        "id":"1"
+    },
+    {
+        "job":"New blog posts and Articles",
+        "id":"2"
+    },
+    {
+        "job":"Platform features and Updates",
+        "id":"3"
+    },
+    {
+        "job":"New Job postings",
+        "id":"4"
+    },
+    {
+        "job":"Upcoming Job alerts",
+        "id":"5"
+    }
+]

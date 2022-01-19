@@ -1,0 +1,139 @@
+[   
+    {
+        "ContainerOverviewCard":{
+            "NameContainer":"Overview",
+            "CardItem":[
+                {
+                    "name":"gig earnings1",
+                    "price":"$ 2340",
+                    "percentage":"+23%",
+                    "img":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                    "itemclassname":"CardOverview"
+                },
+                {
+                    "name":"gig earnings2",
+                    "price":"$ 2340",
+                    "percentage":"+23%",
+                    "img":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                    "itemclassname":"CardOverview"
+                },
+                {
+                    "name":"gig earnings3",
+                    "price":"$ 2340",
+                    "percentage":"+23%",
+                    "img":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                    "itemclassname":"CardOverview"
+                }
+            ]
+        },
+        "ContainerJobsCard":{
+            "NameContainer":"Jobs",
+            "CardItem":[
+                {
+                    "name":"Food Delivery1",
+                    "text1":"Pepsi Co",
+                    "text2":"Odense, Denmark",
+                    "price":"$60",
+                    "img":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg"
+                },
+                {
+                    "name":"Food Delivery2",
+                    "text1":"Pepsi Co",
+                    "text2":"Odense, Denmark",
+                    "price":"$60",
+                    "img":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg"
+                },
+                {
+                    "name":"Food Delivery3",
+                    "text1":"Pepsi Co",
+                    "text2":"Odense, Denmark",
+                    "price":"$60",
+                    "img":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg"
+                }
+            ]
+        },
+        "ContainerCardJobPostings":{
+            "NameContainer":"Recent Job Postings",
+            "CardItem":[
+                {
+                    "name":"Food Delivery1",
+                    "text1":"Pepsi Co",
+                    "text2":"Odense, Denmark",
+                    "price":"$60",
+                    "img":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                    "footer":{
+                        "imgMini1":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                        "imgMini2":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                        "price":"$60",
+                        "textPrice":"/month",
+                        "textTime":"Posted 7 days ago "   
+                    }
+                },
+                {
+                    "name":"Food Delivery1",
+                    "text1":"Pepsi Co",
+                    "text2":"Odense, Denmark",
+                    "price":"$60",
+                    "img":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                    "footer":{
+                        "imgMini1":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                        "imgMini2":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                        "price":"$60",
+                        "textPrice":"/month",
+                        "textTime":"Posted 7 days ago "   
+                    }
+                },
+                {
+                    "name":"Food Delivery1",
+                    "text1":"Pepsi Co",
+                    "text2":"Odense, Denmark",
+                    "price":"$60",
+                    "img":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                    "footer":{
+                        "imgMini1":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                        "imgMini2":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                        "price":"$60",
+                        "textPrice":"/month",
+                        "textTime":"Posted 7 days ago "   
+                    }
+                }
+                
+            ]
+        },
+        "ContainerCardRecentPosts":{
+            "NameContainer":"Recent Blog Posts",
+            "CardItem":[
+                {
+                    "title":"Technology and remote work: A blessing or a curse?",
+                    "name":"Jude Sampson Jr.1",
+                    "text1":"software developer",
+                    "img":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                    "footer":{
+                        "imgMini1":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                        "textTime":"3 minute read "  
+                    }
+                },
+                {
+                    "title":"Technology and remote work: A blessing or a curse?",
+                    "name":"Jude Sampson Jr.2",
+                    "text1":"software developer",
+                    "img":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                    "footer":{
+                        "imgMini1":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                        "textTime":"3 minute read"    
+                    }
+                },
+                {
+                    "title":"Technology and remote work: A blessing or a curse?",
+                    "name":"Jude Sampson Jr.3",
+                    "text1":"software developer",
+                    "img":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                    "footer":{
+                        "imgMini1":"https://tokeneo.com/uploads/2020/07/najwieksze-gieldy-kryptowalut-1.jpg",
+                        "textTime":"3 minute read "   
+                    }
+                }
+            ]
+        }
+    }
+]

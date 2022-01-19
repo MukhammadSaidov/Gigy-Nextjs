@@ -1,0 +1,37 @@
+[
+    {
+        "job":"Driving",
+        "count":"24",
+        "id":"1"
+    },
+    {
+        "job":"Babysitting",
+        "count":"12",
+        "id":"2"
+    },
+    {
+        "job":"Food delivery",
+        "count":"17",
+        "id":"3"
+    },
+    {
+        "job":"Plumbing",
+        "count":"16",
+        "id":"4"
+    },
+    {
+        "job":"Automobile Repairs",
+        "count":"13",
+        "id":"5"
+    },
+    {
+        "job":"Mowing",
+        "count":"19",
+        "id":"6"
+    },
+    {
+        "job":"Laundry",
+        "count":"11",
+        "id":"7"
+    }
+]
